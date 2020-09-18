@@ -1,0 +1,15 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.box {
+    line-height: 150px;
+    font-size: 50px;
+    text-align: center;
+    color: #fff;
+    background: linear-gradient(to right,red,orange,yellow,green,cyan,blue,purple);
+}
+.content {
+    text-align: center;
+}
